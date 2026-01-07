@@ -41,3 +41,9 @@ cd serverperformancestats
 chmod +x server-stats.sh
 ./server-stats.sh
 
+## Project Reference
+
+This project is based on the Roadmap.sh Server Performance Stats project:  
+https://roadmap.sh/projects/server-stats
+
+
